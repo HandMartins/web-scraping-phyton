@@ -1,0 +1,5 @@
+1) Entra no site Santo antonio
+2) No campo de pesquisar, digita o nome do produto:"formas bwb" e pressiona ENTER
+3) capturo todos os titulos e valores da tela e pressiono o botão de "Carregar Mais"
+4) Novamente volto a capturar todos os dados citados no passo 3
+4) Todos os dados são enviados para uma planilha excel e salvos
